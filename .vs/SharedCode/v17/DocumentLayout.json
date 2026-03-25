@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaseService\\SharedCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\idbcontext\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\idbcontext\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\idbcontext\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\idbcontext\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|d:\\baseservice\\sharedcode\\sharedcode.domain\\baseentity\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|solutionrelative:sharedcode.domain\\baseentity\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "SharedCode.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:42:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
+              "RelativeToolTip": "SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:39:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
+              "RelativeToolTip": "SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:28:36.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditableBaseEntity.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
+              "RelativeDocumentMoniker": "SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
+              "RelativeToolTip": "SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:11:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\StringExtensions.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\StringExtensions.cs",
+              "RelativeToolTip": "SharedCode.Application\\StringExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:08:05.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
