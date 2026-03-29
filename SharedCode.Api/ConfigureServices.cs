@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SharedCode.Api.Middleware;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,8 +22,6 @@ public static class ConfigureServices
         {
             cfg.RegisterServicesFromAssemblies(assemblies);
         });
-
-
         return services;
     }
 }

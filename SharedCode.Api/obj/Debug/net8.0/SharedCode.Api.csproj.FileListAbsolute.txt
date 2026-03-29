@@ -1,0 +1,16 @@
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.csproj.AssemblyReference.cache
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.AssemblyInfoInputs.cache
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.AssemblyInfo.cs
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.csproj.CoreCompileInputs.cache
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.sourcelink.json
+D:\BaseService\SharedCode\SharedCode.Api\bin\Debug\net8.0\SharedCode.Api.deps.json
+D:\BaseService\SharedCode\SharedCode.Api\bin\Debug\net8.0\SharedCode.Api.dll
+D:\BaseService\SharedCode\SharedCode.Api\bin\Debug\net8.0\SharedCode.Api.pdb
+D:\BaseService\SharedCode\SharedCode.Api\bin\Debug\net8.0\SharedCode.Application.dll
+D:\BaseService\SharedCode\SharedCode.Api\bin\Debug\net8.0\SharedCode.Application.pdb
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCo.93EE839B.Up2Date
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.dll
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\refint\SharedCode.Api.dll
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\SharedCode.Api.pdb
+D:\BaseService\SharedCode\SharedCode.Api\obj\Debug\net8.0\ref\SharedCode.Api.dll

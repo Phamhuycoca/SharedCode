@@ -1,0 +1,13 @@
+D:\BaseService\SharedCode\SharedCode.Application\bin\Debug\net8.0\SharedCode.Application.deps.json
+D:\BaseService\SharedCode\SharedCode.Application\bin\Debug\net8.0\SharedCode.Application.dll
+D:\BaseService\SharedCode\SharedCode.Application\bin\Debug\net8.0\SharedCode.Application.pdb
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.csproj.AssemblyReference.cache
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.AssemblyInfoInputs.cache
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.AssemblyInfo.cs
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.csproj.CoreCompileInputs.cache
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.sourcelink.json
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.dll
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\refint\SharedCode.Application.dll
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\SharedCode.Application.pdb
+D:\BaseService\SharedCode\SharedCode.Application\obj\Debug\net8.0\ref\SharedCode.Application.dll

@@ -1,0 +1,12 @@
+D:\BaseService\SharedCode\SharedCode.Domain\bin\Debug\net8.0\SharedCode.Domain.deps.json
+D:\BaseService\SharedCode\SharedCode.Domain\bin\Debug\net8.0\SharedCode.Domain.dll
+D:\BaseService\SharedCode\SharedCode.Domain\bin\Debug\net8.0\SharedCode.Domain.pdb
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.AssemblyInfoInputs.cache
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.AssemblyInfo.cs
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.csproj.CoreCompileInputs.cache
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.sourcelink.json
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.dll
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\refint\SharedCode.Domain.dll
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\SharedCode.Domain.pdb
+D:\BaseService\SharedCode\SharedCode.Domain\obj\Debug\net8.0\ref\SharedCode.Domain.dll

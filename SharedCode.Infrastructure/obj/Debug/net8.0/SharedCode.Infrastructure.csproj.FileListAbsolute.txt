@@ -1,0 +1,16 @@
+D:\BaseService\SharedCode\SharedCode.Infrastructure\bin\Debug\net8.0\SharedCode.Infrastructure.deps.json
+D:\BaseService\SharedCode\SharedCode.Infrastructure\bin\Debug\net8.0\SharedCode.Infrastructure.dll
+D:\BaseService\SharedCode\SharedCode.Infrastructure\bin\Debug\net8.0\SharedCode.Infrastructure.pdb
+D:\BaseService\SharedCode\SharedCode.Infrastructure\bin\Debug\net8.0\SharedCode.Domain.dll
+D:\BaseService\SharedCode\SharedCode.Infrastructure\bin\Debug\net8.0\SharedCode.Domain.pdb
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.csproj.AssemblyReference.cache
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.AssemblyInfoInputs.cache
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.AssemblyInfo.cs
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.sourcelink.json
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCo.6462515B.Up2Date
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.dll
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\refint\SharedCode.Infrastructure.dll
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\SharedCode.Infrastructure.pdb
+D:\BaseService\SharedCode\SharedCode.Infrastructure\obj\Debug\net8.0\ref\SharedCode.Infrastructure.dll
