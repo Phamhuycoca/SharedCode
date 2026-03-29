@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using SharedApplication.BaseHandler.Command;
 using SharedCode.Application.Queries;
+using SharedCode.Application.Responses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +27,7 @@ public class GetByIdQueryHanlder<TDbContext, TEntity> : BaseQueryHanlder<TDbCont
             TEntity entity = await _context.Set<TEntity>().FindAsync(request.id);
             if (entity == null)
             {
-                throw new Exception("Không tìm thấy thông tin");
+                throw new AppException(System.Net.HttpStatusCode.NotFound, "Không tìm thấy thông tin");
             }
 
             return _mapper.Map<TEntity, TDto>(entity);
@@ -34,7 +35,7 @@ public class GetByIdQueryHanlder<TDbContext, TEntity> : BaseQueryHanlder<TDbCont
         catch (Exception ex2)
         {
             Exception ex = ex2;
-            throw new Exception(ex.Message);
+            throw new AppException(System.Net.HttpStatusCode.InternalServerError, ex.Message);
         }
     }
 }

@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using SharedApplication.BaseHandler.Command;
 using SharedCode.Application.Handler;
+using SharedCode.Application.Responses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,23 +20,28 @@ public class DeleteCommandHanlder<TDbContext, TEntity> : BaseCommandHanlder<TDbC
     {
     }
 
-    public async Task<int> Handle(DeleteCommand request, CancellationToken cancellationToken)
+    public async Task<ApiResponse<bool>> Handle(DeleteCommand request, CancellationToken cancellationToken)
     {
         try
         {
             var result = _context.Set<TEntity>().Where("x => id == @0", request.id).FirstOrDefault();
             if (result == null) 
             {
-                throw new Exception("Không tìm thấy thông tin");
+                throw new AppException(System.Net.HttpStatusCode.NotFound,"Không tìm thấy thông tin");
             }
             _context.Set<TEntity>().Remove(result);
-            _context.SaveChanges();
-            return 1;
+            var affected = await _context.SaveChangesAsync();
+            return new ApiResponse<bool>
+            {
+                Data = affected > 0,
+                StatusCode = 200,
+                Message = "Xóa thành công"
+            };
         }
         catch (Exception ex2)
         {
             Exception ex = ex2;
-            throw new Exception(ex.Message);
+            throw new AppException(System.Net.HttpStatusCode.InternalServerError, ex.Message);
         }
     }
 }

@@ -3,68 +3,32 @@
   "WorkspaceRootPath": "D:\\BaseService\\SharedCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|d:\\baseservice\\sharedcode\\sharedcode.domain\\sharedcode.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|solutionrelative:sharedcode.domain\\sharedcode.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\sharedcode.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\sharedcode.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\sharedcode.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\sharedcode.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\middleware\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\middleware\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\handler\\deletecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\handler\\deletecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\queries\\getbyidqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\queries\\getbyidqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\command\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\command\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\command\\getbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\command\\getbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\responses\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\responses\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\handler\\updatecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\handler\\updatecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\command\\deletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\command\\deletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\handler\\createcommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\handler\\createcommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\handler\\basecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\handler\\basecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\queries\\getallqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\queries\\getallqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\queries\\basequeryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\queries\\basequeryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\responses\\responelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,36 +39,28 @@
       "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\responses\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\responses\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\responses\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\queries\\getbyidqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\queries\\getbyidqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\queries\\getallqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\queries\\getallqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\idbcontext\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\idbcontext\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\handler\\basecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\handler\\basecommandhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|d:\\baseservice\\sharedcode\\sharedcode.infrastructure\\idbcontext\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCB74C0-6879-408B-92E2-D92B0298D821}|SharedCode.Infrastructure\\SharedCode.Infrastructure.csproj|solutionrelative:sharedcode.infrastructure\\idbcontext\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\middleware\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\middleware\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|d:\\baseservice\\sharedcode\\sharedcode.domain\\baseentity\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56AD7B16-B51F-4D30-B7E5-7CEA9921C5F0}|SharedCode.Domain\\SharedCode.Domain.csproj|solutionrelative:sharedcode.domain\\baseentity\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|d:\\baseservice\\sharedcode\\sharedcode.application\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFA8A3A-15C1-41F2-9EFB-7E0498C4BF7E}|SharedCode.Application\\SharedCode.Application.csproj|solutionrelative:sharedcode.application\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|d:\\baseservice\\sharedcode\\sharedcode.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3867F5-4DEB-4699-A4DD-E9EA138A3745}|SharedCode.Api\\SharedCode.Api.csproj|solutionrelative:sharedcode.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,339 +75,196 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SharedCode.Domain",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\SharedCode.Domain.csproj",
-              "RelativeDocumentMoniker": "SharedCode.Domain\\SharedCode.Domain.csproj",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\SharedCode.Domain.csproj",
-              "RelativeToolTip": "SharedCode.Domain\\SharedCode.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-29T15:33:03.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SharedCode.Application",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\SharedCode.Application.csproj",
-              "RelativeDocumentMoniker": "SharedCode.Application\\SharedCode.Application.csproj",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\SharedCode.Application.csproj",
-              "RelativeToolTip": "SharedCode.Application\\SharedCode.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-29T15:32:44.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SharedCode.Api",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\SharedCode.Api.csproj",
-              "RelativeDocumentMoniker": "SharedCode.Api\\SharedCode.Api.csproj",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\SharedCode.Api.csproj",
-              "RelativeToolTip": "SharedCode.Api\\SharedCode.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-29T15:32:10.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetByIdQueryHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\ApiResponse.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "SharedCode.Application\\Responses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:29:24.641Z",
+              "WhenOpened": "2026-03-29T15:40:49.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DeleteCommandHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:28:46.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetByIdCommand.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\GetByIdCommand.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Command\\GetByIdCommand.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\GetByIdCommand.cs",
-              "RelativeToolTip": "SharedCode.Application\\Command\\GetByIdCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:21:04.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "SharedCode.Api\\ConfigureServices.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\ConfigureServices.cs",
-              "RelativeToolTip": "SharedCode.Api\\ConfigureServices.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T15:16:13.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:14:25.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
-              "RelativeToolTip": "SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:13:08.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\ConfigureServices.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\ConfigureServices.cs",
-              "RelativeToolTip": "SharedCode.Application\\ConfigureServices.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T15:16:27.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateCommandHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:28:51.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateCommandHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:28:37.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetAllQueryHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:25:15.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "ResponeList.cs",
               "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ResponeList.cs",
               "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\ResponeList.cs",
               "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ResponeList.cs",
               "RelativeToolTip": "SharedCode.Application\\Responses\\ResponeList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:27:09.904Z",
+              "WhenOpened": "2026-03-29T15:40:16.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Meta.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\Meta.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\Meta.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\Meta.cs",
-              "RelativeToolTip": "SharedCode.Application\\Responses\\Meta.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DeleteCommandHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Handler\\DeleteCommandHanlder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:27:48.018Z",
+              "WhenOpened": "2026-03-29T15:37:44.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateCommand.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\UpdateCommand.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Command\\UpdateCommand.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\UpdateCommand.cs",
-              "RelativeToolTip": "SharedCode.Application\\Command\\UpdateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateCommandHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Handler\\CreateCommandHanlder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:21:02.72Z",
+              "WhenOpened": "2026-03-29T15:36:25.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseQueryHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\BaseQueryHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Queries\\BaseQueryHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\BaseQueryHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Queries\\BaseQueryHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CreateCommand.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\CreateCommand.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Command\\CreateCommand.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\CreateCommand.cs",
+              "RelativeToolTip": "SharedCode.Application\\Command\\CreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:19:59.733Z",
+              "WhenOpened": "2026-03-29T15:36:15.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseCommandHanlder.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
-              "RelativeToolTip": "SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UpdateCommandHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Handler\\UpdateCommandHanlder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:17:51.438Z",
+              "WhenOpened": "2026-03-29T15:38:36.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 4,
+              "Title": "DeleteCommand.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\DeleteCommand.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Command\\DeleteCommand.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Command\\DeleteCommand.cs",
+              "RelativeToolTip": "SharedCode.Application\\Command\\DeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:36:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppException.cs",
               "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\AppException.cs",
               "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\AppException.cs",
               "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\AppException.cs",
               "RelativeToolTip": "SharedCode.Application\\Responses\\AppException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:10:41.111Z",
+              "WhenOpened": "2026-03-29T15:39:45.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
+              "Title": "Meta.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\Meta.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\Meta.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\Meta.cs",
+              "RelativeToolTip": "SharedCode.Application\\Responses\\Meta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:40:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ApiErrorResponse.cs",
               "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ApiErrorResponse.cs",
               "RelativeDocumentMoniker": "SharedCode.Application\\Responses\\ApiErrorResponse.cs",
               "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Responses\\ApiErrorResponse.cs",
               "RelativeToolTip": "SharedCode.Application\\Responses\\ApiErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:10:16.657Z",
+              "WhenOpened": "2026-03-29T15:40:08.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\BaseController\\BaseController.cs",
-              "RelativeDocumentMoniker": "SharedCode.Api\\BaseController\\BaseController.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\BaseController\\BaseController.cs",
-              "RelativeToolTip": "SharedCode.Api\\BaseController\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "GetByIdQueryHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Queries\\GetByIdQueryHanlder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T15:13:00.235Z",
+              "WhenOpened": "2026-03-29T15:39:16.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\ConfigureServices.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\ConfigureServices.cs",
-              "RelativeToolTip": "SharedCode.Infrastructure\\ConfigureServices.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "GetAllQueryHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Queries\\GetAllQueryHanlder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:42:50.04Z",
+              "WhenOpened": "2026-03-29T15:39:14.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseDbContext.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
-              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
-              "RelativeToolTip": "SharedCode.Infrastructure\\IDbContext\\BaseDbContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "SharedCode.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:39:32.325Z",
+              "WhenOpened": "2026-03-29T15:36:55.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ICurrentUserService.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
-              "RelativeDocumentMoniker": "SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
-              "RelativeToolTip": "SharedCode.Infrastructure\\IDbContext\\ICurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "SharedCode.Api\\Middleware\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:28:36.646Z",
+              "WhenOpened": "2026-03-29T15:36:54.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuditableBaseEntity.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
-              "RelativeDocumentMoniker": "SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
-              "RelativeToolTip": "SharedCode.Domain\\BaseEntity\\AuditableBaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "BaseCommandHanlder.cs",
+              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
+              "RelativeDocumentMoniker": "SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
+              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
+              "RelativeToolTip": "SharedCode.Application\\Handler\\BaseCommandHanlder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:11:52.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "D:\\BaseService\\SharedCode\\SharedCode.Application\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "SharedCode.Application\\StringExtensions.cs",
-              "ToolTip": "D:\\BaseService\\SharedCode\\SharedCode.Application\\StringExtensions.cs",
-              "RelativeToolTip": "SharedCode.Application\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:08:05.878Z",
+              "WhenOpened": "2026-03-29T15:36:21.199Z",
               "EditorCaption": ""
             }
           ]

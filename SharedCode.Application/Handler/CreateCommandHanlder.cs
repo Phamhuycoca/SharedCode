@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using SharedApplication.BaseHandler.Command;
 using SharedCode.Application.Handler;
+using SharedCode.Application.Responses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ public class CreateCommandHanlder<TDbContext, TEntity> : BaseCommandHanlder<TDbC
     {
     }
 
-    public async Task<TDto> Handle<TDto>(CreateCommand<TDto> request, CancellationToken cancellationToken) where TDto : class
+    public async Task<ApiResponse<TDto>> Handle<TDto>(CreateCommand<TDto> request, CancellationToken cancellationToken) where TDto : class
     {
         try
         {
@@ -26,10 +27,15 @@ public class CreateCommandHanlder<TDbContext, TEntity> : BaseCommandHanlder<TDbC
             await _context.Set<TEntity>().AddAsync(entity, cancellationToken);
             if (await _context.SaveChangesAsync(cancellationToken) >= 1)
             {
-                return _mapper.Map<TEntity, TDto>(entity);
+                return new ApiResponse<TDto>
+                {
+                    Data = _mapper.Map<TEntity, TDto>(entity),
+                    Message = "Thêm mới thông tin thành công",
+                    StatusCode = (int)System.Net.HttpStatusCode.OK
+                };
             }
 
-            throw new Exception("Có lỗi xảy ra trong quá trình thêm mới");
+            throw new AppException(System.Net.HttpStatusCode.InternalServerError,"Có lỗi xảy ra trong quá trình thêm mới");
         }
         catch (Exception)
         {

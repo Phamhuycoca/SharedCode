@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using SharedApplication.BaseHandler.Command;
 using SharedCode.Application.Handler;
+using SharedCode.Application.Responses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ public class UpdateCommandHanlder<TDbContext, TEntity> : BaseCommandHanlder<TDbC
     {
     }
 
-    public async Task<TDto> Handle<TDto>(UpdateCommand<TDto> request, CancellationToken cancellationToken) where TDto : class
+    public async Task<ApiResponse<TDto>> Handle<TDto>(UpdateCommand<TDto> request, CancellationToken cancellationToken) where TDto : class
     {
         try
         {
@@ -26,17 +27,23 @@ public class UpdateCommandHanlder<TDbContext, TEntity> : BaseCommandHanlder<TDbC
             TEntity entity = await _repo.FindAsync(request.id);
             if (entity == null)
             {
-                throw new Exception("Không tìm thấy thông tin");
+                throw new AppException(System.Net.HttpStatusCode.NotFound,"Không tìm thấy thông tin");
             }
 
             MapToEntity(request.data, entity);
             _repo.Update(entity);
             if (await _context.SaveChangesAsync(cancellationToken) >= 1)
             {
-                return _mapper.Map<TEntity, TDto>(entity);
+                //return _mapper.Map<TEntity, TDto>(entity);
+                return new ApiResponse<TDto>
+                {
+                    Data = _mapper.Map<TEntity, TDto>(entity),
+                    Message = "Cập nhật thông tin thành công",
+                    StatusCode = (int)System.Net.HttpStatusCode.OK
+                };
             }
 
-            throw new Exception("Có lỗi xảy ra trong quá trình cập nhật");
+            throw new AppException(System.Net.HttpStatusCode.InternalServerError,"Có lỗi xảy ra trong quá trình cập nhật");
         }
         catch (Exception)
         {
