@@ -1,0 +1,16 @@
+﻿<Project>
+  <PropertyGroup>
+
+    <!-- NuGet pack -->
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+    <!-- Metadata chung -->
+    <Authors>PhamHuy</Authors>
+    <Company>YourCompany</Company>
+    <Description>Shared Code Library</Description>
+
+    <!-- Version chung -->
+    <Version>1.0.0</Version>
+
+  </PropertyGroup>
+</Project>
